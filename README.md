@@ -1,1 +1,1 @@
-Создание приложения Desktop GUI на Python + Tkinter
+# Создание приложения Desktop GUI на Python + Tkinter
